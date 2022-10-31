@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
-import getConfig from "next/config";
 import { parse, evaluate } from "groq-js";
+import getConfig from "next/config";
 
 const { serverRuntimeConfig } = getConfig();
 
