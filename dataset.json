@@ -1,0 +1,160 @@
+[
+  {
+    "_createdAt": "2022-10-24T10:58:52Z",
+    "_updatedAt": "2022-10-24T10:58:52Z",
+    "_rev": "zQrRQFQEMHgl1ga0QsTOGT",
+    "_id": "84248c5f-171e-4c84-bdeb-34f44f10cc0f",
+    "_type": "site",
+    "name": "https://lichess.org/JIDRSKUq"
+  },
+  {
+    "_createdAt": "2022-10-24T10:59:44Z",
+    "_updatedAt": "2022-10-26T10:43:58Z",
+    "_rev": "gTFxhRrDrFMm7ojiMIAgEq",
+    "_id": "be159db3-87fb-4b7c-8a39-889c5c3e4ae4",
+    "_type": "player",
+    "fullname": "Billy Moon",
+    "lichessUsername": "billymoon",
+    "location": {
+      "_ref": "752a1edf-47bd-4a81-9fa4-94fc67314904",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2022-10-24T11:00:19Z",
+    "_updatedAt": "2022-10-24T11:00:19Z",
+    "_rev": "zQrRQFQEMHgl1ga0QsTYrW",
+    "_id": "3a33fc3e-c7cc-42f5-8ac1-c3a2d8d7d459",
+    "_type": "player",
+    "fullname": "sokovykhMi",
+    "lichessUsername": "sokovykhMi"
+  },
+  {
+    "_createdAt": "2022-10-24T11:00:41Z",
+    "_updatedAt": "2022-10-24T11:01:20Z",
+    "_rev": "zQrRQFQEMHgl1ga0QsTbx5",
+    "_id": "d543411b-d4e7-4ba9-965a-0621bffefdf2",
+    "_type": "game",
+    "blackPlayer": {
+      "_ref": "be159db3-87fb-4b7c-8a39-889c5c3e4ae4",
+      "_type": "reference"
+    },
+    "date": "2022-10-24",
+    "site": {
+      "_ref": "84248c5f-171e-4c84-bdeb-34f44f10cc0f",
+      "_type": "reference"
+    },
+    "utcDate": "2022-10-24",
+    "utcTime": "09:34:36",
+    "whitePlayer": {
+      "_ref": "3a33fc3e-c7cc-42f5-8ac1-c3a2d8d7d459",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2022-10-24T11:20:36Z",
+    "_updatedAt": "2022-10-24T11:20:36Z",
+    "_rev": "zQrRQFQEMHgl1ga0QsVEu3",
+    "_id": "4df3d2fc-cb49-44ec-8560-a14bc2e317f2",
+    "_type": "site",
+    "name": "https://lichess.org/3UxrFmKI"
+  },
+  {
+    "_createdAt": "2022-10-24T11:21:17Z",
+    "_updatedAt": "2022-10-24T11:21:17Z",
+    "_rev": "U1tErclPex5rmNAUJbX8oD",
+    "_id": "d7ac0c4e-a10f-4f1c-b67a-02d069dd4b3a",
+    "_type": "player",
+    "fullname": "s8007261236",
+    "lichessUsername": "s8007261236"
+  },
+  {
+    "_createdAt": "2022-10-24T11:21:28Z",
+    "_updatedAt": "2022-10-24T11:21:28Z",
+    "_rev": "zQrRQFQEMHgl1ga0QsVHF4",
+    "_id": "dcf21209-18b0-45d3-bd9c-e29bd43e1321",
+    "_type": "game",
+    "blackPlayer": {
+      "_ref": "d7ac0c4e-a10f-4f1c-b67a-02d069dd4b3a",
+      "_type": "reference"
+    },
+    "date": "2022-10-24",
+    "site": {
+      "_ref": "4df3d2fc-cb49-44ec-8560-a14bc2e317f2",
+      "_type": "reference"
+    },
+    "utcDate": "2022-10-24",
+    "utcTime": "08:47:51",
+    "whitePlayer": {
+      "_ref": "be159db3-87fb-4b7c-8a39-889c5c3e4ae4",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2022-10-24T13:28:47Z",
+    "_updatedAt": "2022-10-24T13:28:47Z",
+    "_rev": "ARbfCGLRTMa9wvh7P7YrbE",
+    "_id": "646cd49a-9115-432d-af08-b62f62da808b",
+    "_type": "location",
+    "Location": "Edinburgh"
+  },
+  {
+    "_createdAt": "2022-10-25T09:47:04Z",
+    "_updatedAt": "2022-10-25T09:47:04Z",
+    "_rev": "U1tErclPex5rmNAUJeU5Io",
+    "_id": "9fb05ee9-9492-46dd-80bf-89940b668523",
+    "_type": "site",
+    "name": "Random Internet Call"
+  },
+  {
+    "_createdAt": "2022-10-25T09:47:57Z",
+    "_updatedAt": "2022-10-25T09:47:57Z",
+    "_rev": "U1tErclPex5rmNAUJeUiGO",
+    "_id": "d18353a9-4db9-496f-ac87-732cf9f3cd91",
+    "_type": "location",
+    "Location": "under the stairs"
+  },
+  {
+    "_createdAt": "2022-10-25T09:48:10Z",
+    "_updatedAt": "2022-10-25T09:48:10Z",
+    "_rev": "Hziz703qm0O7pr6Kvo7Bm3",
+    "_id": "e1b747be-e277-4f02-a6b6-9beffe972e16",
+    "_type": "player",
+    "fullname": "Dean",
+    "lichessUsername": "deanster",
+    "location": {
+      "_ref": "d18353a9-4db9-496f-ac87-732cf9f3cd91",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2022-10-25T09:48:19Z",
+    "_updatedAt": "2022-10-25T09:48:19Z",
+    "_rev": "Hziz703qm0O7pr6Kvo7EMJ",
+    "_id": "ec01cfad-894f-4399-b87d-848c36527c7e",
+    "_type": "game",
+    "blackPlayer": {
+      "_ref": "e1b747be-e277-4f02-a6b6-9beffe972e16",
+      "_type": "reference"
+    },
+    "date": "today",
+    "site": {
+      "_ref": "9fb05ee9-9492-46dd-80bf-89940b668523",
+      "_type": "reference"
+    },
+    "utcDate": "today",
+    "utcTime": "now",
+    "whitePlayer": {
+      "_ref": "be159db3-87fb-4b7c-8a39-889c5c3e4ae4",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2022-10-26T10:43:47Z",
+    "_updatedAt": "2022-10-26T10:43:47Z",
+    "_rev": "gTFxhRrDrFMm7ojiMIAdmQ",
+    "_id": "752a1edf-47bd-4a81-9fa4-94fc67314904",
+    "_type": "location",
+    "Location": "Scotland"
+  }
+]
