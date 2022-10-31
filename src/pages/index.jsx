@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <a href="/api/auth/sign in">Signin</a>
+      <a href="/api/auth/signin">Sign in</a>
     </div>
   );
 };
